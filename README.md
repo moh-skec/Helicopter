@@ -26,20 +26,19 @@ Helicopter is a software project designed to simulate helicopter flight dynamics
 - Qt Remote Objects module
 - Qt Quick Timeline module
 
-Make sure all required Qt modules are installed and available in your development environment.
+Please ensure all required Qt modules are installed and available in your development environment.
 
 ### Installation
 
 ```sh
 git clone https://github.com/moh-skec/Helicopter.git
-cd Helicopter/EngineMonitoringSystemInstaller
-./EngineMonitoringSystem.exe
+./Helicopter.exe
 ```
 
 ### Usage
 
 ```sh
-cd ${Instalation Path}
+cd ${Installation Path}
 ./HelicopterApp.exe
 ```
 
@@ -49,7 +48,7 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. Please watch the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
