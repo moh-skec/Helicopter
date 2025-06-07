@@ -1,6 +1,6 @@
 # Helicopter
 
-Helicopter is a software project designed to simulate helicopter flight dynamics and provide a platform for aerial vehicle control.
+Helicopter is a software project designed to simulate helicopter flight dynamics and provide a platform for controlling aerial vehicles.
 
 ## Features
 
@@ -51,8 +51,7 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 <<<<<<< HEAD
 This project is licensed under the MIT License. Please watch the [LICENSE](LICENSE) file for details.
 =======
-This project is licensed under the MIT License. Please look at the [LICENSE](LICENSE) file for details.
->>>>>>> efd21fb00d04cd1a466886ab3b7be61a9ff01038
+This project is licensed under the [MIT LICENSE](LICENSE).
 
 ## Contact
 
