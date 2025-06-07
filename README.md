@@ -48,11 +48,7 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ## License
 
-<<<<<<< HEAD
-This project is licensed under the MIT License. Please watch the [LICENSE](LICENSE) file for details.
-=======
-This project is licensed under the [MIT LICENSE](LICENSE).
->>>>>>>
+This project is licensed under the MIT License. Please watch the [LICENSE](LICENSE) file for details
 
 ## Contact
 
